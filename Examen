@@ -1,0 +1,16 @@
+Unidad                 2 EJERCICIO 14
+una de las proncipales ventajas es que podemos agregar distintos algoritmos para minimizar los estados de DFA pero para que sea un compilador muy util el scanner debe
+reconocer todas las categorias sintacticas que aparecen en la gramatica de la fuente del lenguaje, esto nos dice que tiene que ser muy exacto y basarse en arboles sintacticos
+y tambien el uso de tecnicas como la recursividad para el reconocimineto lexico. Tambien se debe mencionar que el scanner va a funcionar dependiendo el nivel del
+lenguaje pero apesar de tener sus limitantes ya que no es lo mismo un lenguaje maquina a uno mas avanzado (java por ejemplo). se tendran que extablecer limitantes,
+en cuanto a las palabras pero muchas de las herramientas de los scanners suelen dar prioridades a algunos patrones mas marcados dentro de el texto y este mecanismo
+es una ventaja muy sobresaliente ya suele resolver problemas como la perdida de prioridades de manera muy rapida cuando hablamos de patrones de texto de los programas
+ya que como es sabido algunos no reconocen ni toman en cuenta los espacios en blanco pero a grandes rasgos sin estas cualidades de los scanners, los algotitmos de
+reconocimineto lexico tendran que ser mucho mas complejos y eso abligaria a que los scanners cambien sus estructuras y eso seria un problema mucho mayor que
+acarrearia otros como un efecto domino
+
+uNIDAD 3 eJERCICIO 12
+
+este tipo de tablas construyen modelos de algoritmos en lo cual vemos en los diagramas LR
+ya que podemos explicar que este  ya que estos objetos dentro del diagrama son conocidos como estados es una manera de simplificar 
+procesos muy complicados
